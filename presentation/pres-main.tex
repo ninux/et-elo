@@ -1,0 +1,68 @@
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{beamerthemeshadow}
+\usepackage{calc}
+\usepackage{ifthen}
+\usepackage{tikz}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{bchart}
+\usepackage{wrapfig}
+\usepackage{ulem}
+\usepackage{color}
+\usepackage{epigraph}
+\usepackage{tipa}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{amsmath}
+
+\usepackage[
+	european,
+	europeanvoltages,
+	europeanresistors,
+	europeanports
+]{circuitikz}
+
+% \usepackage{pgf-pie}
+
+\definecolor{darkgreen}{rgb}{0.2,0.6,0.2}
+
+\usepackage{listings}
+
+\title{Dimensionierung einer AC-Verstärkerschaltung}
+\subtitle{ET+ELO Labor, Teil 1}
+\author{E. Mazlagi\'c, M. Müller}
+\institute{Hochschule Luzern \\ Technik \& Architektur}
+
+
+% Listing settings
+% \lstset{
+%    %breakwhitespace=true,
+%    language=[LaTeX]TeX,
+%    basicstyle=\footnotesize\ttfamily,
+%    keywordstyle=\color{red}\bfseries,
+%    idnetifierstyle=\color{blue},
+%    commentstyle=\color{darkgreen},
+%    stringstyle=\color{blue},
+%    columns=fullflexible,
+%    keepspaces=true,
+%    breaklines=true,
+%    tabsize=3,
+%    showstringspaces=false,
+%    extendedchars=truei
+%    morekeywords={
+%	\begin, 
+%	\item,
+%	\end}
+%}
+
+
+\begin{document}
+\maketitle
+
+\input{aufgabe}
+\input{dimensionierung}
+
+\end{document}

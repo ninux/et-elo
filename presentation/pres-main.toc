@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.27pt}
+\select@language {ngerman}
+\beamer@sectionintoc {1}{Aufgabenstellung}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Schaltung}{2}{0}{1}
+\beamer@sectionintoc {2}{Dimensionierungen}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Widerst\IeC {\"a}nde}{3}{0}{2}

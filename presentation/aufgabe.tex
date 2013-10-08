@@ -1,0 +1,51 @@
+\section{Aufgabenstellung}
+
+\subsection{Schaltung}
+
+\begin{frame}
+	\frametitle{Schaltung}
+	\begin{figure}
+		\centering
+		\begin{circuitikz}[scale=0.75]\draw
+			(-1,0) 	node[rground]{}
+			(-1,3.5)to[sV=$U_e$]		(-1,0)
+			(-1,3.5) to[R=$R_q$] 		(2,3.5)
+			(2,3.5) to[C=$Cq$, -*] 		(4,3.5)
+			(4,3.5) to[R=$R_2$] 		(4,0)
+			(4,0) 	node[rground]{}
+			(4,3.5) to[R=$R_1$] 		(4,7)
+		%	(6,7) 	to[R=$R_C$] 		(npn.collector)
+			(6,3.5) node[npn](npn){}
+			(6,7)	to[R=$R_C$] (npn.collector)
+			(4,3.5) to[short] 		(5,3.5) 
+			(6,3) 	to[R=$R_E$] 		(6,0)
+			(6,0) 	node[rground]{}
+			(4,7) 	to[short, -*] 		(6,7)
+			(6,7) 	to[short, -o] 		(10,7)
+			(10,7)	node[anchor=west]{$U_B=+20V$}
+			(6,4.5) to[short, *-] 		(6.5,4.5)
+			(6.5,4.5) to[C=$C_A$] 		(8,4.5)
+			(8,4.5) to[R=$R_L$] 		(8,0)
+			(8,4.5) to[short, *-o] 		(10,4.5)
+			(10,4.5) node[anchor=west]{$U_A$}
+			(8,0) node[rground]{}
+			% to[short, o-*](2,0)
+			% to[L, l_=10mH, *-*](2,2)
+			% to[R, l_=100k$\Omega$, *-o](0,2)
+			% (2,2) to[short, *-*](4,2)
+			% to[C=10nF, *-*](4,0)
+			% (2,0) to[short, *-*](4,0)
+			% (4,0) to[short, *-o](6,0)
+			% (4,2) to[short, *-o](6,2)
+			% (6,2) node[anchor=south]{C}
+			% (6,0) node[anchor=north]{D}
+			% (0,2) node[anchor=south]{A}
+			% (-2,2) to[sI, l^=$f\neq kosnt.$](-2,0)
+			% (-2,2) to[short](-1,2)
+			% (-2,0) to[short](-1,0)
+			% (6,0.2) to[open, v=$v(f)$] (6,1.8)
+			;
+		\end{circuitikz}
+		\caption{AC-Verstärkerschaltung}
+	\end{figure}
+\end{frame}

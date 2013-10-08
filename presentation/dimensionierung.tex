@@ -1,0 +1,31 @@
+\section{Dimensionierungen}
+
+\subsection{Widerstände}
+
+\begin{frame}
+	\frametitle{Ausgangsseite}
+		\begin{block}{Richtwert für $R_C$}
+			Der Richtwert gibt an, dass
+			\[R_C < 0.3 \cdot R_L \]
+			gelten muss.
+		\end{block}
+			$\Rightarrow R_C = 0.3 \cdot 22k \Omega = 6.6k \Omega$
+			$\xrightarrow{E12} 5.6k \Omega$
+
+		\[ R_E = \frac{\beta \cdot R_C - V_U \cdot R_{BE}}
+		{V_U \cdot (1+\beta)} \approx \frac{R_C}{V_U} =
+		\frac{5.6k \Omega}{5.62} = 
+		996.4 \Omega \xrightarrow{E12} 1k \Omega \]
+\end{frame}
+
+\begin{frame}
+	\frametitle{Ausgangsseite}
+		\begin{block}{Regel für $\frac{R_C}{R_E}$}
+			Die Regel besagt, dass 
+			\[ \frac{R_C}{R_E} < 10 \]
+			sein muss. Ist dies nicht gegeben, so muss zum
+			Emitterwiderstand ein RC-Glied parallel geschaltet
+			werden.	
+		\end{block}
+				
+\end{frame}
