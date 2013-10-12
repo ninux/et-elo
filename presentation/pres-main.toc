@@ -4,3 +4,7 @@
 \beamer@subsectionintoc {1}{1}{Schaltung}{2}{0}{1}
 \beamer@sectionintoc {2}{Dimensionierungen}{3}{0}{2}
 \beamer@subsectionintoc {2}{1}{Widerst\IeC {\"a}nde}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{Eingangswiderstand}{8}{0}{2}
+\beamer@subsectionintoc {2}{3}{DC-Entkopplung}{10}{0}{2}
+\beamer@sectionintoc {3}{Auswertung}{11}{0}{3}
+\beamer@subsectionintoc {3}{1}{Verst\IeC {\"a}rkung}{11}{0}{3}

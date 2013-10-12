@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.9.24)  8 OCT 2013 12:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2013.9.24)  12 OCT 2013 16:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1342,37 +1342,55 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-] (./aufgabe.tex
-LaTeX Font Info:    Try loading font information for U+msa on input line 51.
+] (./aufgabe.tex [2
 
-(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+])
+(./dimensionierung.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 19.
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 51.
+LaTeX Font Info:    Try loading font information for U+msb on input line 19.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 51.
+line 19.
 
 (/usr/share/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-)
-Overfull \hbox (4.77412pt too wide) in paragraph at lines 51--51
- [] 
+) [3
+
+]
+[4
+
+] <BC550_Ic_Uce.pdf, id=202, 177.23135pt x 147.48193pt>
+File: BC550_Ic_Uce.pdf Graphic file (type pdf)
+
+<use BC550_Ic_Uce.pdf>
+Package pdftex.def Info: BC550_Ic_Uce.pdf used on input line 44.
+(pdftex.def)             Requested size: 177.23091pt x 147.48155pt.
+
+Overfull \vbox (4.95157pt too high) detected at line 44
  []
 
+[5
 
-Overfull \vbox (4.86346pt too high) detected at line 51
- []
+ <./BC550_Ic_Uce.pdf>] [6
 
-[2
+] [7
 
-]) (./dimensionierung.tex [3
+] [8
 
-] [4
+] [9
+
+] [10
+
+] [11
+
+] [12
 
 ])
 \tf@nav=\write6
@@ -1390,7 +1408,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 68.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 68.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 68.
 Package rerunfilecheck Info: File `pres-main.out' has not changed.
-(rerunfilecheck)             Checksum: 334356FA1BAA871BB36ED4330D25BD44;224.
+(rerunfilecheck)             Checksum: 11E7FFD2B62D6EDE1B4B5A0FA937FD6D;464.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1399,24 +1417,27 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 68.
  ) 
 Here is how much of TeX's memory you used:
- 27104 strings out of 493311
- 546144 string characters out of 6143650
- 701509 words of memory out of 5000000
- 29963 multiletter control sequences out of 15000+600000
- 12039 words of font info for 44 fonts, out of 8000000 for 9000
+ 26976 strings out of 493311
+ 542415 string characters out of 6143650
+ 685400 words of memory out of 5000000
+ 29810 multiletter control sequences out of 15000+600000
+ 16878 words of font info for 62 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 56i,20n,59p,398b,862s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,20n,57p,398b,836s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmss8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><
-/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on pres-main.pdf (4 pages, 91526 bytes).
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmss8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></
+usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy8.pfb></usr/share/texmf-dist/fonts/type1/urw/symbol/usyr.pfb>
+Output written on pres-main.pdf (12 pages, 185301 bytes).
 PDF statistics:
- 201 PDF objects out of 1000 (max. 8388607)
- 170 compressed objects within 2 object streams
- 13 named destinations out of 1000 (max. 500000)
- 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 520 PDF objects out of 1000 (max. 8388607)
+ 467 compressed objects within 5 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 148 words of extra memory for PDF output out of 10000 (max. 10000000)
 
