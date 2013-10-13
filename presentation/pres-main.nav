@@ -29,16 +29,17 @@
 \headcommand {\beamer@subsectionentry {0}{2}{3}{10}{DC-Entkopplung}}\headcommand {\beamer@subsectionpages {8}{9}}
 \headcommand {\slideentry {2}{3}{1}{10/10}{DC-Entkopplung}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\sectionentry {3}{Auswertung}{11}{Auswertung}{0}}
-\headcommand {\beamer@sectionpages {3}{10}}
-\headcommand {\beamer@subsectionpages {10}{10}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{11}{Verst\IeC {\"a}rkung}}\headcommand {\beamer@subsectionpages {11}{10}}
-\headcommand {\slideentry {3}{1}{1}{11/11}{Verst\IeC {\"a}rkung}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{4}{11}{Verst\IeC {\"a}rkung}}\headcommand {\beamer@subsectionpages {10}{10}}
+\headcommand {\slideentry {2}{4}{1}{11/11}{Verst\IeC {\"a}rkung}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\slideentry {3}{1}{2}{12/12}{Verst\IeC {\"a}rkung}{0}}
+\headcommand {\sectionentry {3}{Messung}{12}{Messung}{0}}
+\headcommand {\beamer@sectionpages {3}{11}}
+\headcommand {\beamer@subsectionpages {11}{11}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{12}{Erste Messung}}\headcommand {\beamer@subsectionpages {12}{11}}
+\headcommand {\slideentry {3}{1}{1}{12/12}{Erste Messung}{0}}
 \headcommand {\beamer@framepages {12}{12}}
 \headcommand {\beamer@partpages {1}{12}}
-\headcommand {\beamer@subsectionpages {11}{12}}
-\headcommand {\beamer@sectionpages {11}{12}}
+\headcommand {\beamer@subsectionpages {12}{12}}
+\headcommand {\beamer@sectionpages {12}{12}}
 \headcommand {\beamer@documentpages {12}}
 \headcommand {\def \inserttotalframenumber {12}}
