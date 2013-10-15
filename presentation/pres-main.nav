@@ -29,27 +29,24 @@
 \headcommand {\beamer@subsectionentry {0}{2}{3}{10}{DC-Entkopplung}}\headcommand {\beamer@subsectionpages {8}{9}}
 \headcommand {\slideentry {2}{3}{1}{10/10}{DC-Entkopplung}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\beamer@subsectionentry {0}{2}{4}{11}{Verst\IeC {\"a}rkung}}\headcommand {\beamer@subsectionpages {10}{10}}
-\headcommand {\slideentry {2}{4}{1}{11/11}{Verst\IeC {\"a}rkung}{0}}
+\headcommand {\sectionentry {3}{Messung}{11}{Messung}{0}}
+\headcommand {\beamer@sectionpages {3}{10}}
+\headcommand {\beamer@subsectionpages {10}{10}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{11}{Erste Messung}}\headcommand {\beamer@subsectionpages {11}{10}}
+\headcommand {\slideentry {3}{1}{1}{11/11}{Erste Messung}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\sectionentry {3}{Messung}{12}{Messung}{0}}
-\headcommand {\beamer@sectionpages {3}{11}}
-\headcommand {\beamer@subsectionpages {11}{11}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{12}{Erste Messung}}\headcommand {\beamer@subsectionpages {12}{11}}
-\headcommand {\slideentry {3}{1}{1}{12/12}{Erste Messung}{0}}
+\headcommand {\slideentry {3}{1}{2}{12/12}{Erste Messung}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\slideentry {3}{1}{2}{13/13}{Erste Messung}{0}}
+\headcommand {\slideentry {3}{1}{3}{13/13}{Erste Messung}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\slideentry {3}{1}{3}{14/14}{Erste Messung}{0}}
+\headcommand {\slideentry {3}{1}{4}{14/14}{Erste Messung}{0}}
 \headcommand {\beamer@framepages {14}{14}}
-\headcommand {\slideentry {3}{1}{4}{15/15}{Erste Messung}{0}}
+\headcommand {\slideentry {3}{1}{5}{15/15}{Erste Messung}{0}}
 \headcommand {\beamer@framepages {15}{15}}
-\headcommand {\slideentry {3}{1}{5}{16/16}{Erste Messung}{0}}
+\headcommand {\slideentry {3}{1}{6}{16/16}{Erste Messung}{0}}
 \headcommand {\beamer@framepages {16}{16}}
-\headcommand {\slideentry {3}{1}{6}{17/17}{Erste Messung}{0}}
-\headcommand {\beamer@framepages {17}{17}}
-\headcommand {\beamer@partpages {1}{17}}
-\headcommand {\beamer@subsectionpages {12}{17}}
-\headcommand {\beamer@sectionpages {12}{17}}
-\headcommand {\beamer@documentpages {17}}
-\headcommand {\def \inserttotalframenumber {17}}
+\headcommand {\beamer@partpages {1}{16}}
+\headcommand {\beamer@subsectionpages {11}{16}}
+\headcommand {\beamer@sectionpages {11}{16}}
+\headcommand {\beamer@documentpages {16}}
+\headcommand {\def \inserttotalframenumber {16}}
